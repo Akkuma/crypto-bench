@@ -43,7 +43,7 @@ shorten () {
 }
 
 graphs () {
-  ls ./../dat-table/bin.js
+  ls ./node_modules/dat-table/bin.js
 
   # sha hashing increasing file size.
 
